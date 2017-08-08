@@ -1,0 +1,7 @@
+#git ignore some files
+a.out
+id.txt
+addresses.txt
+
+#ignore java compiled objects
+*.class
